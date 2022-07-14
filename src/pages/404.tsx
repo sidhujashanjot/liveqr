@@ -27,10 +27,6 @@ const Page404 = () => {
           Aradığın sayfayı bulamadık!
         </ChakraLink>
       </Text>
-
-      <Box marginY={4}>
-        <Heading textAlign="center">Sayfa bulunamadı.</Heading>
-
         <Box textAlign="center" marginTop={4}>
           <Link href="/" passHref>
             <Button
