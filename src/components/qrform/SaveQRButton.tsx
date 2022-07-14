@@ -70,7 +70,7 @@ const SaveQRButton = () => {
         <PopoverArrow />
         <PopoverCloseButton />
 
-        <PopoverHeader>configuration</PopoverHeader>
+        <PopoverHeader>kaydet</PopoverHeader>
 
         <PopoverBody>
           <FormControl>
@@ -93,13 +93,13 @@ const SaveQRButton = () => {
               </NumberInputStepper>
             </NumberInput>
 
-            <FormHelperText>min: 1, max: 5000</FormHelperText>
+            <FormHelperText>minimum: 1, maksimum: 5000</FormHelperText>
           </FormControl>
         </PopoverBody>
 
         <PopoverFooter>
           <Button onClick={handleSaveImage} isFullWidth colorScheme="green">
-            Download
+            Kaydet
           </Button>
         </PopoverFooter>
       </PopoverContent>
