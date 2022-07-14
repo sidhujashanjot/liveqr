@@ -24,9 +24,13 @@ const Page404 = () => {
       </MotionBox>
       <Text textAlign="center" fontSize="xs">
         <ChakraLink href="https://stories.freepik.com/web" isExternal>
-          Aradığın sayfayı bulamadık!
+         
         </ChakraLink>
       </Text>
+
+      <Box marginY={4}>
+        <Heading textAlign="center">Sayfa bulunamadı.</Heading>
+
         <Box textAlign="center" marginTop={4}>
           <Link href="/" passHref>
             <Button
