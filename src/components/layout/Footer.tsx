@@ -5,8 +5,8 @@ const Footer = () => {
     <Flex as="footer" width="full" align="center" alignSelf="flex-end">
       <Text>
         {new Date().getFullYear()} -{" "}
-        <Link href="https://ewingdev.vercel.app/" isExternal fontWeight="semibold">
-          ewing.dev
+        <Link href="https://makemyqr.ml/" isExternal fontWeight="semibold">
+          Make My QR
         </Link>
       </Text>
     </Flex>
