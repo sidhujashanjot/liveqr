@@ -18,7 +18,7 @@ const QRForm = () => {
 
   const { values, handleChange } = useFormik<QRFormType>({
     initialValues: {
-      value: "Your Text or URL",
+      value: "",
       fgColor: "#000000",
     },
     onSubmit: () => {},
