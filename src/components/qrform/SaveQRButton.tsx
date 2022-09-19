@@ -62,7 +62,7 @@ const SaveQRButton = () => {
     <Popover>
       <PopoverTrigger>
         <Button colorScheme="blue" isFullWidth>
-          QR Kodu Kaydet!
+          Save QR Code!
         </Button>
       </PopoverTrigger>
 
