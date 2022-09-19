@@ -42,11 +42,11 @@ const QRForm = () => {
       <Box>
         <Grid gap={4}>
           <FormInput
-            label="İçerik"
+            label="Your Text"
             name="value"
             value={value}
             onChange={handleChange}
-            placeholder="URL"
+            placeholder="Text"
           />
         </Grid>
       </Box>
