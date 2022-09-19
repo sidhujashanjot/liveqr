@@ -46,7 +46,7 @@ const QRForm = () => {
             name="value"
             value={value}
             onChange={handleChange}
-            placeholder="Text"
+            placeholder="Your Text or URL"
           />
         </Grid>
       </Box>
