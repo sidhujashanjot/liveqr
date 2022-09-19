@@ -1,7 +1,7 @@
 {
-  "short_name": "karekod",
-  "name": "Hızlı bir şekilde qr kodu oluşturmak için bir uygulama",
-  "lang": "tr",
+  "short_name": "Make My QR",
+  "name": "Create Your Live QR from any Text or URL",
+  "lang": "en",
   "start_url": "/",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
