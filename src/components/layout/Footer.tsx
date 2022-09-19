@@ -6,7 +6,7 @@ const Footer = () => {
       <Text>
         {new Date().getFullYear()} -{" "}
         <Link href="https://makemyqr.ml/" isExternal fontWeight="semibold">
-          Make My QR
+          Make My QR by Jashan Sidhu
         </Link>
       </Text>
     </Flex>
