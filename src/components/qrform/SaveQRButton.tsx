@@ -99,7 +99,7 @@ const SaveQRButton = () => {
 
         <PopoverFooter>
           <Button onClick={handleSaveImage} isFullWidth colorScheme="green">
-            Kaydet
+            Save
           </Button>
         </PopoverFooter>
       </PopoverContent>
