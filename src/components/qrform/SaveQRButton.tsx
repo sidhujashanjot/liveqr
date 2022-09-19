@@ -70,7 +70,7 @@ const SaveQRButton = () => {
         <PopoverArrow />
         <PopoverCloseButton />
 
-        <PopoverHeader>kaydet</PopoverHeader>
+        <PopoverHeader>Save</PopoverHeader>
 
         <PopoverBody>
           <FormControl>
