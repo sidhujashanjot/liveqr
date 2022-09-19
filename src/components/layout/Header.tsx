@@ -8,9 +8,9 @@ const Header = () => {
     <Flex as="header" width="full" align="center" alignSelf="flex-start">
       <AccessibleLink href="/">
         <Heading as="h1" size="md">
-          karekod.vercel.app
+          Make My QR
         </Heading>
-        <Text fontSize="xs">Hızlı bir şekilde QR kodu oluşturmak için bir uygulama</Text>
+        <Text fontSize="xs">Make Your Live QR from any Text or URL</Text>
       </AccessibleLink>
 
       <Box marginLeft="auto">
