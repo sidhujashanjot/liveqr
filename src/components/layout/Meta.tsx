@@ -3,7 +3,7 @@ import Head from "next/head";
 const Meta = () => {
   return (
     <Head>
-      <title>karekod.vercel.app</title>
+      <title>Make My QR</title>
       <link rel="icon" href="/qr-code.svg" />
     </Head>
   );
